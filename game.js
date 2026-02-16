@@ -1,9 +1,8 @@
 /**
  * Author: Alejandro Ramírez
- * 
- * Tic Tac Toe Game Logic
- * Implements a clean, state-driven engine for the classic game.
- * Optimized for real-time DOM updates and win-condition validation.
+ * Project: browser-tic-tac-toe
+ * Logic: State-driven game engine for Tic-Tac-Toe, featuring 
+ * real-time win-condition validation and DOM orchestration.
  */
 
 const boardElement = document.getElementById('board');
